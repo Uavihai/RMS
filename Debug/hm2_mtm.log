@@ -1,0 +1,57 @@
+﻿  main.c
+c:\users\uksusman\desktop\hm2_mtm\hm2_mtm\prog.h(23): error C2061: syntax error: identifier 'food'
+c:\users\uksusman\desktop\hm2_mtm\hm2_mtm\prog.h(25): error C2059: syntax error: '}'
+c:\users\uksusman\desktop\hm2_mtm\hm2_mtm\prog.h(29): error C2061: syntax error: identifier 'food'
+c:\users\uksusman\desktop\hm2_mtm\hm2_mtm\prog.h(30): error C2143: syntax error: missing '{' before '*'
+c:\users\uksusman\desktop\hm2_mtm\hm2_mtm\prog.h(32): error C2059: syntax error: '}'
+c:\users\uksusman\desktop\hm2_mtm\hm2_mtm\prog.h(38): error C2061: syntax error: identifier 'food'
+c:\users\uksusman\desktop\hm2_mtm\hm2_mtm\prog.h(39): error C2143: syntax error: missing '{' before '*'
+c:\users\uksusman\desktop\hm2_mtm\hm2_mtm\prog.h(40): error C2059: syntax error: '}'
+c:\users\uksusman\desktop\hm2_mtm\hm2_mtm\prog.h(48): error C2146: syntax error: missing ')' before identifier 'boss'
+c:\users\uksusman\desktop\hm2_mtm\hm2_mtm\prog.h(48): error C2061: syntax error: identifier 'boss'
+c:\users\uksusman\desktop\hm2_mtm\hm2_mtm\prog.h(48): error C2059: syntax error: ';'
+c:\users\uksusman\desktop\hm2_mtm\hm2_mtm\prog.h(48): error C2059: syntax error: ','
+c:\users\uksusman\desktop\hm2_mtm\hm2_mtm\prog.h(48): error C2059: syntax error: ')'
+c:\users\uksusman\desktop\hm2_mtm\hm2_mtm\main.c(14): error C2065: 'manager': undeclared identifier
+c:\users\uksusman\desktop\hm2_mtm\hm2_mtm\main.c(14): error C2146: syntax error: missing ';' before identifier 'boss'
+c:\users\uksusman\desktop\hm2_mtm\hm2_mtm\main.c(14): error C2065: 'boss': undeclared identifier
+c:\users\uksusman\desktop\hm2_mtm\hm2_mtm\main.c(15): error C2065: 'boss': undeclared identifier
+c:\users\uksusman\desktop\hm2_mtm\hm2_mtm\main.c(15): error C2224: left of '.tail' must have struct/union type
+c:\users\uksusman\desktop\hm2_mtm\hm2_mtm\main.c(16): error C2065: 'boss': undeclared identifier
+c:\users\uksusman\desktop\hm2_mtm\hm2_mtm\main.c(16): error C2224: left of '.head' must have struct/union type
+c:\users\uksusman\desktop\hm2_mtm\hm2_mtm\main.c(17): error C2065: 'boss': undeclared identifier
+c:\users\uksusman\desktop\hm2_mtm\hm2_mtm\main.c(17): error C2224: left of '.size' must have struct/union type
+c:\users\uksusman\desktop\hm2_mtm\hm2_mtm\main.c(22): warning C4477: 'fscanf' : format string '%s' requires an argument of type 'char *', but variadic argument 1 has type 'char **'
+c:\users\uksusman\desktop\hm2_mtm\hm2_mtm\main.c(25): warning C4013: 'CreatProducts' undefined; assuming extern returning int
+c:\users\uksusman\desktop\hm2_mtm\hm2_mtm\main.c(25): error C2065: 'boss': undeclared identifier
+c:\users\uksusman\desktop\hm2_mtm\hm2_mtm\main.c(42): warning C4013: 'getch' undefined; assuming extern returning int
+c:\users\uksusman\desktop\hm2_mtm\hm2_mtm\main.c(18): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\stdio.h(208): note: see declaration of 'fopen'
+c:\users\uksusman\desktop\hm2_mtm\hm2_mtm\main.c(22): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\stdio.h(1197): note: see declaration of 'fscanf'
+  prog.c
+c:\users\uksusman\desktop\hm2_mtm\hm2_mtm\prog.h(23): error C2061: syntax error: identifier 'food'
+c:\users\uksusman\desktop\hm2_mtm\hm2_mtm\prog.h(25): error C2059: syntax error: '}'
+c:\users\uksusman\desktop\hm2_mtm\hm2_mtm\prog.h(29): error C2061: syntax error: identifier 'food'
+c:\users\uksusman\desktop\hm2_mtm\hm2_mtm\prog.h(30): error C2143: syntax error: missing '{' before '*'
+c:\users\uksusman\desktop\hm2_mtm\hm2_mtm\prog.h(32): error C2059: syntax error: '}'
+c:\users\uksusman\desktop\hm2_mtm\hm2_mtm\prog.h(38): error C2061: syntax error: identifier 'food'
+c:\users\uksusman\desktop\hm2_mtm\hm2_mtm\prog.h(39): error C2143: syntax error: missing '{' before '*'
+c:\users\uksusman\desktop\hm2_mtm\hm2_mtm\prog.h(40): error C2059: syntax error: '}'
+c:\users\uksusman\desktop\hm2_mtm\hm2_mtm\prog.h(48): error C2146: syntax error: missing ')' before identifier 'boss'
+c:\users\uksusman\desktop\hm2_mtm\hm2_mtm\prog.h(48): error C2061: syntax error: identifier 'boss'
+c:\users\uksusman\desktop\hm2_mtm\hm2_mtm\prog.h(48): error C2059: syntax error: ';'
+c:\users\uksusman\desktop\hm2_mtm\hm2_mtm\prog.h(48): error C2059: syntax error: ','
+c:\users\uksusman\desktop\hm2_mtm\hm2_mtm\prog.h(48): error C2059: syntax error: ')'
+c:\users\uksusman\desktop\hm2_mtm\hm2_mtm\prog.c(3): error C2146: syntax error: missing ')' before identifier 'boss'
+c:\users\uksusman\desktop\hm2_mtm\hm2_mtm\prog.c(3): error C2061: syntax error: identifier 'boss'
+c:\users\uksusman\desktop\hm2_mtm\hm2_mtm\prog.c(3): error C2059: syntax error: ';'
+c:\users\uksusman\desktop\hm2_mtm\hm2_mtm\prog.c(3): error C2059: syntax error: ','
+c:\users\uksusman\desktop\hm2_mtm\hm2_mtm\prog.c(3): error C2059: syntax error: ')'
+c:\users\uksusman\desktop\hm2_mtm\hm2_mtm\prog.c(41): error C2146: syntax error: missing ')' before identifier 'cur'
+c:\users\uksusman\desktop\hm2_mtm\hm2_mtm\prog.c(41): error C2061: syntax error: identifier 'cur'
+c:\users\uksusman\desktop\hm2_mtm\hm2_mtm\prog.c(41): error C2059: syntax error: ';'
+c:\users\uksusman\desktop\hm2_mtm\hm2_mtm\prog.c(41): error C2059: syntax error: ','
+c:\users\uksusman\desktop\hm2_mtm\hm2_mtm\prog.c(41): error C2059: syntax error: ')'
+c:\users\uksusman\desktop\hm2_mtm\hm2_mtm\prog.c(54): fatal error C1004: unexpected end-of-file found
+  Generating Code...
